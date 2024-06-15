@@ -30,12 +30,12 @@ Explorer nach dem Wechsel:
 5. Erstellen sie zwei unterschiedliche aber ähnliche Branches, wechseln sie hin und her und mergen sie diese Branches dann wieder!
 
 Ich habe 2 Branches erstellt und in diesem die Testdatei.txt angepasst:
-![Branches erstellt und Testdatei angepasst](/Images/5-braches_erstellen.png)
+![Branches erstellt und Testdatei angepasst](/Images/5-branches_erstellen.png)
 
 Dann wollte ich diese wieder mergen, aber weil die Testdatei in beiden Branches verändert wurde, gab es eine Fehlermeldung:
-![Merge1 mit Fehlermeldung](/Images/5-merge1.png)
+![Merge1 mit Fehlermeldung](/Images/5-branches-merge1.png)
 
 Nach dem Beheben dieses Merge-Conflicts konnte ich die branches wieder mergen:
-![Merge2 ohne Fehlermeldung](/Images/5-merge2.png)
+![Merge2 ohne Fehlermeldung](/Images/5-branches-merge2.png)
 
 6. Erstellen Sie in GitHub einen Pull-Request bezugnehmend auf https://github.com/edlich/education! Bitte referenzieren Sie auf den Pull-Request mit Link oder der Pull-Request Nummer! Kryptische GitHub Namen kann ich kaum zuordnen. Die Aufgabenteile vor dem Pull-Request bitte nicht in den Pull-Request einbauen, sondern extra abgeben!
