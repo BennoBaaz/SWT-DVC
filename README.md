@@ -39,3 +39,6 @@ Nach dem Beheben dieses Merge-Conflicts konnte ich die branches wieder mergen:
 ![Merge2 ohne Fehlermeldung](/Images/5-branches_merge2.png)
 
 6. Erstellen Sie in GitHub einen Pull-Request bezugnehmend auf https://github.com/edlich/education! Bitte referenzieren Sie auf den Pull-Request mit Link oder der Pull-Request Nummer! Kryptische GitHub Namen kann ich kaum zuordnen. Die Aufgabenteile vor dem Pull-Request bitte nicht in den Pull-Request einbauen, sondern extra abgeben!
+
+Link zum Pull-Request:
+https://github.com/edlich/education/pull/507 
