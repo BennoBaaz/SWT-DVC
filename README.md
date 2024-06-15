@@ -4,11 +4,12 @@ Einsendeaufgabe DVC für den Kurs Softwaretechnik
 1. Erstellen Sie sich ein Repository in Github oder GitLab.
 
 2. Pushen Sie ein eigenes Projekt von Ihnen hoch (z.B. das CCD-Projekt) oder erstellen Sie ein neues Projekt!
-![alt text](/Images/2-Push.png)
-
+![Push der Projektdatein](/Images/2-Push.png)
 
 3. Wenden Sie alle in den Unterlagen genannten relevanten Methoden beweisbar an: (das Github Repo ist Beweis) push, pull, add, commit, diff, status, rm/mv, etc.
-  
+![Anwenden der Methoden Push, Pull, mv und Commit](/Images/3-push,pull,mv,commit.png)
+![Anwenden der Methoden Status, Add, Diff](/Images/3-status,add,diff.png)
+
 4. Experimentieren Sie mit Zeitreisen!
 
 5. Erstellen sie zwei unterschiedliche aber ähnliche Branches, wechseln sie hin und her und mergen sie diese Branches dann wieder!
